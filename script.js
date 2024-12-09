@@ -80,7 +80,7 @@ function pageOne() {
 					end: 'top 10%',
 					start: 'top 20%',
 					scrub: -5,
-					markers:true
+					// markers:true
 				},
 				backgroundColor: '#ffff',
 			});
